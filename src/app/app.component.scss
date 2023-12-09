@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid{
+    width: 48%; 
+    height: 568px;
+}
+
+.buttons{
+    margin-top: 40px;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.save{
+    background-color: rgb(13, 83, 211);
+    color: #fff;
+    height: 35px;
+    border-radius: 5px;
+}
